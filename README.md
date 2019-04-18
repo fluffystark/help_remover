@@ -1,0 +1,7 @@
+## Help Remover
+
+ 
+
+#### License
+
+MIT
